@@ -34,4 +34,4 @@ Incluye la etiqueta "**challengeoneconversorlatam4**"
 4) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
 5) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
 
-     <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/juan-carlos-arce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
